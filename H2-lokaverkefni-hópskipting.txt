@@ -1,26 +1,26 @@
-hópur 2				
+hÃ³pur 2				
 1		Bernhard Linn Hilmarsson		
-		Gabriel Már Galvez		
+		Gabriel MÃ¡r Galvez		
 				
-2		Hans Jón Ívarsson		
-		Sindri Snær Hjaltalín		
+2		Hans JÃ³n Ãvarsson		
+		Sindri SnÃ¦r HjaltalÃ­n		
 				
-3		Inga Kristín Kristjánsdóttir		
+3		Inga KristÃ­n KristjÃ¡nsdÃ³ttir		
 		Remigiusz Ganiec		
 				
-4		Guğmundur Karl Bjarnason		
-		Styrkár Blær Styrmisson		
+4		GuÃ°mundur Karl Bjarnason		
+		StyrkÃ¡r BlÃ¦r Styrmisson		
 				
 5				
 				
-6		Ingi Páll Óskarsson		
-		Magnús Árni Kristinsson		
+6		Ingi PÃ¡ll Ã“skarsson		
+		MagnÃºs Ãrni Kristinsson		
 				
-7		Adam Bæhrenz Björgvinsson		
+7		Adam BÃ¦hrenz BjÃ¶rgvinsson 	+ Ã³liver h3	 
 				
-8		Úlfur Emilsson		
-		Patrekur Árni Leví Gunnarsson		
+8		Ãšlfur Emilsson		
+		Patrekur Ãrni LevÃ­ Gunnarsson		
 				
-9		Nökkvi Reyr Guğfinnsson		
-		Gestur Hallgrímur Harğarson		
-		Nikulás Kai Fletcher	
+9		NÃ¶kkvi Reyr GuÃ°finnsson		
+		Gestur HallgrÃ­mur HarÃ°arson		
+		NikulÃ¡s Kai Fletcher	
