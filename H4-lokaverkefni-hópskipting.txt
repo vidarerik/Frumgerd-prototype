@@ -1,0 +1,29 @@
+vsh2a 	Lokaverkefni	hópur 4				
+				
+	1	Alexander Freyr Lúðvíksson			
+		Jakub Maciej Matysniak			
+					
+	2	Ísak Elí Marinósson			
+		Sighvatur Bjarki Bjarkason			
+					
+	3	Levan Romansson Gokorian			
+		Maxim Rudkov			
+					
+	4	Pálmi Óskarsson			
+		Sebastian Tomasz Kalenkowiec			
+					
+	5	Jóhann Rúnarsson			
+		Óli Pétur Olsen			
+					
+	6	Sólon Örn Sævarsson			
+		Sturla Snær Arnarsson			
+					
+	7	Sævar Már Þorbjörnsson			
+		Sigurður Galdur Loftsson			
+					
+	8	Rafael Benedikt Servo			
+		Ýmir Örn Gíslason			
+					
+	9	Huginn Orri Hafdal Arnórsson	Úlfur Ingólfs
+					
+	10	Ómar Högni Guðmarsson		Pétur Magnús
