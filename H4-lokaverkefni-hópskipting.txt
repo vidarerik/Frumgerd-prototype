@@ -1,29 +1,29 @@
-vsh2a 	Lokaverkefni	hópur 4				
+vsh2a 	Lokaverkefni	hÃ³pur 4				
 				
-	1	Alexander Freyr Lúğvíksson			
+	1	Alexander Freyr LÃºÃ°vÃ­ksson			
 		Jakub Maciej Matysniak			
 					
-	2	Ísak Elí Marinósson			
+	2	Ãsak ElÃ­ MarinÃ³sson			
 		Sighvatur Bjarki Bjarkason			
 					
 	3	Levan Romansson Gokorian			
 		Maxim Rudkov			
 					
-	4	Pálmi Óskarsson			
+	4	PÃ¡lmi Ã“skarsson			
 		Sebastian Tomasz Kalenkowiec			
 					
-	5	Jóhann Rúnarsson			
-		Óli Pétur Olsen			
+	5	JÃ³hann RÃºnarsson			
+		Ã“li PÃ©tur Olsen			
 					
-	6	Sólon Örn Sævarsson			
-		Sturla Snær Arnarsson			
+	6	SÃ³lon Ã–rn SÃ¦varsson			
+		Sturla SnÃ¦r Arnarsson			
 					
-	7	Sævar Már Şorbjörnsson			
-		Sigurğur Galdur Loftsson			
+	7	SÃ¦var MÃ¡r ÃorbjÃ¶rnsson			
+		SigurÃ°ur Galdur Loftsson			
 					
 	8	Rafael Benedikt Servo			
-		İmir Örn Gíslason			
+		Ãmir Ã–rn GÃ­slason			
 					
-	9	Huginn Orri Hafdal Arnórsson	Úlfur Ingólfs
+	9	Huginn Orri Hafdal ArnÃ³rsson	Ãšlfur IngÃ³lfs er Ã­ hÃ³p 3
 					
-	10	Ómar Högni Guğmarsson		Pétur Magnús
+	10	Ã“mar HÃ¶gni GuÃ°marsson		PÃ©tur MagnÃºs er Ã­ hÃ³p 3
