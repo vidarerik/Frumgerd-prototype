@@ -1,4 +1,4 @@
-vsh2a 	Lokaverkefni	hópur 4				
+vsh2a 	Lokaverkefni	hópur 3			
 				
 	1	Alexander Freyr Lúðvíksson			
 		Jakub Maciej Matysniak			
