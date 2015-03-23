@@ -11,16 +11,15 @@ hópur 2
 4		Guðmundur Karl Bjarnason		
 		Styrkár Blær Styrmisson		
 				
-5				
-				
-6		Ingi Páll Óskarsson		
+5		Ingi Páll Óskarsson		
 		Magnús Árni Kristinsson		
 				
-7		Adam Bæhrenz Björgvinsson 	+ óliver h3	 
+6		Adam Bæhrenz Björgvinsson 	+ óliver h3	 
 				
-8		Úlfur Emilsson		
+7		Úlfur Emilsson		
 		Patrekur Árni Leví Gunnarsson		
 				
-9		Nökkvi Reyr Guðfinnsson		
-		Gestur Hallgrímur Harðarson		
+8		Nökkvi Reyr Guðfinnsson		
+		Gestur Hallgrímur Harðarson	
+		
 		Nikulás Kai Fletcher	
