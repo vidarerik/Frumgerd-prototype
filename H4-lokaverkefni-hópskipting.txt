@@ -1,26 +1,33 @@
 ﻿1	Alexander Jens Ásgeirsson			
 	Arnar Freyr Kristinsson			
-				
+	
+
 2	Ágúst Óli Sigurðsson			
-	Friðrik Njálsson			
+	Friðrik Njálsson		
+
 				
 3	Aron Hrafnsson			
 	Eðvald Atli Sigurvaldsson			
-	Oliver Örn Gustafsson			
+	Oliver Örn Gustafsson	
+	https://github.com/lokaverkefni/vefsida		
 				
 4	Brynjólfur Sverrisson			
 	Michael Jes Þórsson			
 				
 5	Emil Sebastiansson Peters			
-	Óðinn Eyjólfsson			
+	Óðinn Eyjólfsson
+
 				
 6	Guðni Natan Gunnarsson			
 	Viktor Ingi Kárason			
-				
+	
+
 7	Jökull Trausti Ingvason			
 	Pálmi Chanachai Rúnarsson			
+	
 				
 	Pétur Magnús Pétursson			
 	Ómar Högni Guðmarsson			h3
+	https://github.com/omsigum/VSH2014hlokaverkefni
 											
 											
