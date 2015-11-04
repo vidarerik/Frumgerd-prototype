@@ -1,12 +1,12 @@
 ## Undirbúningur og skipulagning vefs
 Verkefni 6. VSH2a3u 
-####Nemendur
+####Nemendur geta 
 <ol>
-  <li>það er hægt að vinna tveir saman að lokaverkefni VSH2a</li>
-  <li>stofna geymslu e. <i>"repository"</i> um lokaverkefni VSH2a</li>
-  <li>setja saman verkáætlun á <i> github- issues - milestones</li></li>
-  <li>velja verkefni eigi síðar en 15/11/2015</li>
-  <li>gogga (fork) í þetta verkefni VSH24/Frumgerð-prototype</li>
-  <li>gömul tillaga að lokaverkefni er ennþá í wiki skránni þarf að uppfæra strax</li>
+  <li>unnið tveir saman að lokaverkefni VSH2a</li>
+  <li>stofnað geymslu e. <i>"repository"</i> um lokaverkefni VSH2a</li>
+  <li>sett saman verkáætlun á <i> github- issues - milestones</li></li>
+  <li>lokið undirbúningsvinnu eigi síðar en 15/11/2015</li>
+  <li>goggað (fork) í þetta verkefni VSH24/Frumgerð-prototype</li>
+  <li>Verkefnalýsingin er í Wiki skránni</li>
  </ol>
  
