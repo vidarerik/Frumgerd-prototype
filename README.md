@@ -1,5 +1,5 @@
-## Frumgerd-prototype
-Lokaverkefni VSH2a3u - frumgerð
+## Undirbúningur og skipulagning vefs
+Verkefni 6. VSH2a3u 
 ####Nemendur
 <ol>
   <li>það er hægt að vinna tveir saman að lokaverkefni VSH2a</li>
