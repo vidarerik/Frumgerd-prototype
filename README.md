@@ -1,5 +1,5 @@
 ## Undirbúningur og skipulagning vefs
-Verkefni 6. VSH2a3u 
+Verkefni 7. VSH2a3u 
 ####Nemendur geta 
 <ol>
   <li>unnið tveir saman að lokaverkefni VSH2a</li>
