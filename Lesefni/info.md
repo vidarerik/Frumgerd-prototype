@@ -1,2 +1,3 @@
 # þetta er MD skrá
-#### sjá tengla á Wiki / ýtarefni
+
+Sjá nánar á <a href="https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/">Writing and formatting on Github</a>
