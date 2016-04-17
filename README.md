@@ -9,3 +9,6 @@ Verkefni 7. VSH2a3u
   <li><a href="https://github.com/VSH24/Frumgerd-prototype/wiki">Verkefnalýsingin er í Wiki skránni</a></li>
   <li><a href="https://github.com/VSH24/gru-verkefnalysing">Stuttar leiðbeiningar um hvernig hægt er að sækja og senda gögn</a></li>
  </ol>
+ 
+ Stofnandi geymslu (<i>repository</i>) getur bætt við notendur (<i>contributor</i>). 
+ Þeir geta síðan breytt og bætt við efni eins og stofnandinn.
