@@ -12,3 +12,5 @@ Verkefni 7. VSH2a3u
  
  Stofnandi geymslu (<i>repository</i>) getur bætt við notendur (<i>contributor</i>). 
  Þeir geta síðan breytt og bætt við efni eins og stofnandinn.
+
+ ##hér er breyting sem ekki er á vsh24
