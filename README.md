@@ -1,6 +1,6 @@
 ## Undirbúningur og skipulagning vefs
 Verkefni 7. VSH2a3u 
-##hér er breyting sem ekki er á github vsh24
+
 ####Nemendur geta 
 <ol>
   <li>stofnað geymslu e. <i>"repository"</i> um lokaverkefni VSH2a</li>
