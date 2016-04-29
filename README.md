@@ -15,6 +15,6 @@ Verkefni 7. VSH2a3u
  Stofnandi geymslu (<i>repository</i>) getur bætt við notendur (<i>contributor</i>). 
  Þeir geta síðan breytt og bætt við efni eins og stofnandinn.
 
-
+<a href='http://tskoli.org/dreifnam/'>VSH dreifnám</a>
 
 
